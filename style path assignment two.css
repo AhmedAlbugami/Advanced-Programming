@@ -33,3 +33,13 @@ table, th, td {
     margin-right: auto;
     width: 50%;
 }
+p {
+    font-size: 2em;
+    color: brown;
+}
+p.big{
+    font-size: 5em;
+}
+p.reduce{
+    font-size: 1em;
+}
