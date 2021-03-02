@@ -1,0 +1,43 @@
+# Pizza-Tracker
+#Advance Programming Pizza Project
+
+image::pizzalogo.png[alt=logo,width=250px][orientation=portrait]
+
+
+
+:AboutMe_Website: AboutMe
+:AboutMe_ENV: Staging
+:AboutMe_URL: http://asalbug.it.pointpark.edu/
+:AboutMe_STATUS: OFFLINE
+:AboutMe_VERSION: 0.1
+
+# What is the about me page?
+The website tells a little about myself and what im doing.
+
+# What OS does About me Reside on?
+It's an native HTML website that can be accessed through a regular web browser.
+
+
+# What Enviorment was the App was the App Developed in?
+ Github
+ Visual Studio
+
+
+
+
+# What Programming Languages were used?
+HTML
+CSS
+JavaScript
+Jquery
+
+
+## Application Environment Details
+
+[grid="rows",format="csv"]
+[options="header", cols="^,<,<s,<,>m"]
+|==========================
+App,Location,Environment,URL,Status,Version
+`{AboutMe_Website}`,`{AboutMe_ENV}`,`{AboutMe_URL}`,`{AboutMe_STATUS}`,`{AboutMe_VERSION}`
+|==========================
+
