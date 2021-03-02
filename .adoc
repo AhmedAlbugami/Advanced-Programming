@@ -8,7 +8,7 @@
 :AboutMe_Website: AboutMe
 :AboutMe_ENV: Staging
 :AboutMe_URL: http://asalbug.it.pointpark.edu/
-:AboutMe_STATUS: OFFLINE
+:AboutMe_STATUS: ONLINE
 :AboutMe_VERSION: 0.1
 
 # What is the about me page?
