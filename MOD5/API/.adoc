@@ -32,5 +32,5 @@ HTML, CSS, JavaScript
 [options="header", cols="^,<,<s,<,>m"]
 |==========================
 App,Location,Environment,URL,Status,Version
-`{API_Website}`,`{API_ENV}`,`{API_URL}`,`{API_STATUS}`,`{API_VERSION}`
+`{API_Website}`,`{API_ENV}`,`{API_STATUS}`,`{API_VERSION}`
 |==========================
