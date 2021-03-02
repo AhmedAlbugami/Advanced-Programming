@@ -2,6 +2,7 @@
 #A little about myself
 
 
+image::download.jpg[alt=diagram,width=500px][orientation=portrait]
 
 
 
