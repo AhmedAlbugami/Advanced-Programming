@@ -31,6 +31,6 @@ HTML, CSS, JavaScript
 [grid="rows",format="csv"]
 [options="header", cols="^,<,<s,<,>m"]
 |==========================
-App,Location,Environment,URL,Status,Version
+Website,Environment,URL,Status,Version
 `{API_Website}`,`{API_ENV}`,`{API_STATUS}`,`{API_VERSION}`
 |==========================
