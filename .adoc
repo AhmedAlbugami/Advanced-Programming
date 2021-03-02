@@ -1,7 +1,7 @@
-# Pizza-Tracker
-#Advance Programming Pizza Project
+# About me Page
+#A little about myself
 
-image::pizzalogo.png[alt=logo,width=250px][orientation=portrait]
+
 
 
 
@@ -26,10 +26,7 @@ It's an native HTML website that can be accessed through a regular web browser.
 
 
 # What Programming Languages were used?
-HTML
-CSS
-JavaScript
-Jquery
+HTML, CSS, JavaScript, Jquery
 
 
 ## Application Environment Details
