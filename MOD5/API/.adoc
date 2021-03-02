@@ -35,4 +35,4 @@ App,Location,Environment,URL,Status,Version
 `{API_Website}`,`{API_ENV}`,`{API_URL}`,`{API_STATUS}`,`{API_VERSION}`
 |==========================
 
-image::Github-process.png[alt=diagram,width=500px][orientation=portrait]
+image::Github-process.jpg[alt=diagram,width=500px][orientation=portrait]
