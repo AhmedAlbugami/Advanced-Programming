@@ -27,7 +27,7 @@ HTML, CSS, JavaScript
 ## Application Environment Details
 
 [grid="rows",format="csv"]
-[options="header", cols="^,<,<s,<,>m"]
+
 |==========================
 Website,Environment,Status,Version
 `{API_Website}`,`{API_ENV}`,`{API_STATUS}`,`{API_VERSION}`
