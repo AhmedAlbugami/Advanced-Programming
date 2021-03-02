@@ -19,9 +19,7 @@ It's an native HTML website that can be accessed through a regular web browser.
 
 
 # What Enviorment was the App was the App Developed in?
- Github
- Visual Studio
-
+ Github, Visual Studio
 
 
 
