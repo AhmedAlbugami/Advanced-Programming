@@ -1,0 +1,38 @@
+# API Assignemnt 
+# It searches for similarities in food
+
+image::download.jpg[alt=diagram,width=500px][orientation=portrait]
+
+
+
+:API_Website: AboutMe
+:API_ENV: Staging
+:API_STATUS: ONLINE
+:API_VERSION: 0.1
+
+# What does the API do?
+It searches for similarities in food and recipies.
+
+# What OS does API run on?
+The API runs on visual studio code where you can look up some of the similarities of the food from the menu.
+
+
+# What Enviorment was the App was the App Developed in?
+ Github, Visual Studio
+
+
+
+# What Programming Languages were used?
+HTML, CSS, JavaScript
+
+
+## Application Environment Details
+
+[grid="rows",format="csv"]
+[options="header", cols="^,<,<s,<,>m"]
+|==========================
+App,Location,Environment,URL,Status,Version
+`{API_Website}`,`{API_ENV}`,`{API_URL}`,`{API_STATUS}`,`{API_VERSION}`
+|==========================
+
+image::Github-process.png[alt=diagram,width=500px][orientation=portrait]
